@@ -1,0 +1,325 @@
+------------------------------------------------------------
+current experiment latent dim: 0
+Time for training GAN model: 322.44 seconds
+time used for whole experiment: 341.14 seconds
+current id score = 799.4979095361517
+------------------------------------------------------------
+current experiment latent dim: 2
+Time for training GAN model: 326.27 seconds
+time used for whole experiment: 343.03 seconds
+current id score = 165.94651909571067
+------------------------------------------------------------
+current experiment latent dim: 4
+Time for training GAN model: 325.75 seconds
+time used for whole experiment: 343.99 seconds
+current id score = 113.27242819303851
+------------------------------------------------------------
+current experiment latent dim: 6
+Time for training GAN model: 329.75 seconds
+time used for whole experiment: 348.01 seconds
+current id score = 87.88192511446834
+------------------------------------------------------------
+current experiment latent dim: 8
+Time for training GAN model: 326.65 seconds
+time used for whole experiment: 343.91 seconds
+current id score = 114.50836221026572
+------------------------------------------------------------
+current experiment latent dim: 10
+Time for training GAN model: 327.11 seconds
+time used for whole experiment: 345.31 seconds
+current id score = 53.41335667580587
+------------------------------------------------------------
+current experiment latent dim: 12
+Time for training GAN model: 330.24 seconds
+time used for whole experiment: 347.61 seconds
+current id score = 58.663190487063744
+------------------------------------------------------------
+current experiment latent dim: 14
+Time for training GAN model: 330.17 seconds
+time used for whole experiment: 347.67 seconds
+current id score = 81.60396298179283
+------------------------------------------------------------
+current experiment latent dim: 16
+Time for training GAN model: 333.9 seconds
+time used for whole experiment: 352.4 seconds
+current id score = 67.7932504234339
+------------------------------------------------------------
+current experiment latent dim: 18
+Time for training GAN model: 330.42 seconds
+time used for whole experiment: 348.62 seconds
+current id score = 46.07572924949645
+------------------------------------------------------------
+current experiment latent dim: 20
+Time for training GAN model: 331.45 seconds
+time used for whole experiment: 349.82 seconds
+current id score = 40.89024361939443
+------------------------------------------------------------
+current experiment latent dim: 22
+Time for training GAN model: 331.51 seconds
+time used for whole experiment: 350.11 seconds
+current id score = 99.70101046977241
+------------------------------------------------------------
+current experiment latent dim: 24
+Time for training GAN model: 333.02 seconds
+time used for whole experiment: 351.19 seconds
+current id score = 99.12377875857038
+------------------------------------------------------------
+current experiment latent dim: 26
+Time for training GAN model: 349.44 seconds
+time used for whole experiment: 367.95 seconds
+current id score = 111.70149578153314
+------------------------------------------------------------
+current experiment latent dim: 28
+Time for training GAN model: 351.23 seconds
+time used for whole experiment: 369.79 seconds
+current id score = 82.59188860298062
+------------------------------------------------------------
+current experiment latent dim: 30
+Time for training GAN model: 347.86 seconds
+time used for whole experiment: 366.31 seconds
+current id score = 51.559214174003245
+------------------------------------------------------------
+current experiment latent dim: 32
+Time for training GAN model: 354.01 seconds
+time used for whole experiment: 372.76 seconds
+current id score = 60.7873686303382
+------------------------------------------------------------
+current experiment latent dim: 34
+Time for training GAN model: 366.49 seconds
+time used for whole experiment: 388.81 seconds
+current id score = 37.671374348705996
+------------------------------------------------------------
+current experiment latent dim: 36
+Time for training GAN model: 419.08 seconds
+time used for whole experiment: 440.95 seconds
+current id score = 77.26602536654262
+------------------------------------------------------------
+current experiment latent dim: 38
+Time for training GAN model: 422.6 seconds
+time used for whole experiment: 441.96 seconds
+current id score = 58.0724779864494
+------------------------------------------------------------
+current experiment latent dim: 40
+Time for training GAN model: 361.61 seconds
+time used for whole experiment: 380.87 seconds
+current id score = 71.29035071148287
+------------------------------------------------------------
+current experiment latent dim: 42
+Time for training GAN model: 399.09 seconds
+time used for whole experiment: 420.31 seconds
+current id score = 48.60413464281703
+------------------------------------------------------------
+current experiment latent dim: 44
+Time for training GAN model: 398.88 seconds
+time used for whole experiment: 420.08 seconds
+current id score = 33.78614762493721
+------------------------------------------------------------
+current experiment latent dim: 46
+Time for training GAN model: 391.75 seconds
+time used for whole experiment: 413.16 seconds
+current id score = 65.42726785100602
+------------------------------------------------------------
+current experiment latent dim: 48
+Time for training GAN model: 374.3 seconds
+time used for whole experiment: 393.52 seconds
+current id score = 48.135399626297556
+------------------------------------------------------------
+current experiment latent dim: 50
+Time for training GAN model: 387.12 seconds
+time used for whole experiment: 408.48 seconds
+current id score = 59.77396845885016
+------------------------------------------------------------
+current experiment latent dim: 52
+Time for training GAN model: 388.88 seconds
+time used for whole experiment: 410.36 seconds
+current id score = 29.87063636577804
+------------------------------------------------------------
+current experiment latent dim: 54
+Time for training GAN model: 395.94 seconds
+time used for whole experiment: 417.46 seconds
+current id score = 80.67032631154969
+------------------------------------------------------------
+current experiment latent dim: 56
+Time for training GAN model: 400.49 seconds
+time used for whole experiment: 420.26 seconds
+current id score = 35.631754550758465
+------------------------------------------------------------
+current experiment latent dim: 58
+Time for training GAN model: 383.04 seconds
+time used for whole experiment: 403.21 seconds
+current id score = 83.77145359658505
+------------------------------------------------------------
+current experiment latent dim: 60
+Time for training GAN model: 406.93 seconds
+time used for whole experiment: 428.73 seconds
+current id score = 33.04594434260994
+------------------------------------------------------------
+current experiment latent dim: 62
+Time for training GAN model: 406.31 seconds
+time used for whole experiment: 426.69 seconds
+current id score = 74.88836921369808
+------------------------------------------------------------
+current experiment latent dim: 64
+Time for training GAN model: 408.98 seconds
+time used for whole experiment: 430.52 seconds
+current id score = 34.3364272745741
+------------------------------------------------------------
+current experiment latent dim: 66
+Time for training GAN model: 404.0 seconds
+time used for whole experiment: 425.75 seconds
+current id score = 36.50810736286779
+------------------------------------------------------------
+current experiment latent dim: 68
+Time for training GAN model: 409.78 seconds
+time used for whole experiment: 430.39 seconds
+current id score = 76.03732331988033
+------------------------------------------------------------
+current experiment latent dim: 70
+Time for training GAN model: 438.74 seconds
+time used for whole experiment: 460.7 seconds
+current id score = 47.98340690588732
+------------------------------------------------------------
+current experiment latent dim: 72
+Time for training GAN model: 428.35 seconds
+time used for whole experiment: 448.65 seconds
+current id score = 56.454003220096936
+------------------------------------------------------------
+current experiment latent dim: 74
+Time for training GAN model: 423.3 seconds
+time used for whole experiment: 444.87 seconds
+current id score = 46.30285094952741
+------------------------------------------------------------
+current experiment latent dim: 76
+Time for training GAN model: 419.69 seconds
+time used for whole experiment: 441.81 seconds
+current id score = 119.73576474282359
+------------------------------------------------------------
+current experiment latent dim: 78
+Time for training GAN model: 424.64 seconds
+time used for whole experiment: 444.88 seconds
+current id score = 119.46517274149286
+------------------------------------------------------------
+current experiment latent dim: 80
+Time for training GAN model: 377.09 seconds
+time used for whole experiment: 398.61 seconds
+current id score = 34.9703547568129
+------------------------------------------------------------
+current experiment latent dim: 82
+Time for training GAN model: 432.16 seconds
+time used for whole experiment: 453.51 seconds
+current id score = 57.49690419495247
+------------------------------------------------------------
+current experiment latent dim: 84
+Time for training GAN model: 419.69 seconds
+time used for whole experiment: 441.25 seconds
+current id score = 50.252521356190414
+------------------------------------------------------------
+current experiment latent dim: 86
+Time for training GAN model: 412.65 seconds
+time used for whole experiment: 432.81 seconds
+current id score = 51.77848151882301
+------------------------------------------------------------
+current experiment latent dim: 88
+Time for training GAN model: 425.8 seconds
+time used for whole experiment: 447.29 seconds
+current id score = 101.23157287968584
+------------------------------------------------------------
+current experiment latent dim: 90
+Time for training GAN model: 418.35 seconds
+time used for whole experiment: 440.28 seconds
+current id score = 33.641074899426854
+------------------------------------------------------------
+current experiment latent dim: 92
+Time for training GAN model: 401.29 seconds
+time used for whole experiment: 419.69 seconds
+current id score = 40.651616233776
+------------------------------------------------------------
+current experiment latent dim: 94
+Time for training GAN model: 439.38 seconds
+time used for whole experiment: 461.89 seconds
+current id score = 37.32625816629171
+------------------------------------------------------------
+current experiment latent dim: 96
+Time for training GAN model: 447.88 seconds
+time used for whole experiment: 469.21 seconds
+current id score = 39.83723099221439
+------------------------------------------------------------
+current experiment latent dim: 98
+Time for training GAN model: 417.23 seconds
+time used for whole experiment: 439.3 seconds
+current id score = 66.24214664073702
+------------------------------------------------------------
+current experiment latent dim: 100
+Time for training GAN model: 430.09 seconds
+time used for whole experiment: 452.16 seconds
+current id score = 91.07343337355744
+------------------------------------------------------------
+current experiment latent dim: 102
+Time for training GAN model: 406.6 seconds
+time used for whole experiment: 425.61 seconds
+current id score = 26.190682796529565
+------------------------------------------------------------
+current experiment latent dim: 104
+Time for training GAN model: 428.68 seconds
+time used for whole experiment: 451.35 seconds
+current id score = 78.83571770097348
+------------------------------------------------------------
+current experiment latent dim: 106
+Time for training GAN model: 442.05 seconds
+time used for whole experiment: 463.53 seconds
+current id score = 28.328485952558232
+------------------------------------------------------------
+current experiment latent dim: 108
+Time for training GAN model: 365.34 seconds
+time used for whole experiment: 384.22 seconds
+current id score = 49.95417325467336
+------------------------------------------------------------
+current experiment latent dim: 110
+Time for training GAN model: 354.67 seconds
+time used for whole experiment: 372.5 seconds
+current id score = 78.160963007209
+------------------------------------------------------------
+current experiment latent dim: 112
+Time for training GAN model: 345.33 seconds
+time used for whole experiment: 362.25 seconds
+current id score = 42.1798322522896
+------------------------------------------------------------
+current experiment latent dim: 114
+Time for training GAN model: 338.98 seconds
+time used for whole experiment: 357.02 seconds
+current id score = 55.33377829517282
+------------------------------------------------------------
+current experiment latent dim: 116
+Time for training GAN model: 345.9 seconds
+time used for whole experiment: 364.09 seconds
+current id score = 40.44331407740865
+------------------------------------------------------------
+current experiment latent dim: 118
+Time for training GAN model: 358.42 seconds
+time used for whole experiment: 378.79 seconds
+current id score = 52.8139073023293
+------------------------------------------------------------
+current experiment latent dim: 120
+Time for training GAN model: 361.54 seconds
+time used for whole experiment: 380.14 seconds
+current id score = 75.29076269200527
+------------------------------------------------------------
+current experiment latent dim: 122
+Time for training GAN model: 354.02 seconds
+time used for whole experiment: 373.02 seconds
+current id score = 68.15945284299998
+------------------------------------------------------------
+current experiment latent dim: 124
+Time for training GAN model: 357.45 seconds
+time used for whole experiment: 375.95 seconds
+current id score = 47.54035126647689
+------------------------------------------------------------
+current experiment latent dim: 126
+Time for training GAN model: 346.85 seconds
+time used for whole experiment: 364.99 seconds
+current id score = 49.994299520349074
+------------------------------------------------------------
+current experiment latent dim: 128
+Time for training GAN model: 353.91 seconds
+time used for whole experiment: 371.79 seconds
+current id score = 64.38755238038145
