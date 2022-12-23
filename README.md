@@ -1,5 +1,6 @@
-# DCGAN_latent_vis
+# CGAN_information(CGANI)
 
+# CGAN information is a metric 
 ### Use following code to download the dataset.
 
 ``` {python}
