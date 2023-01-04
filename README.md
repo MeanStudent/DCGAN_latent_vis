@@ -21,26 +21,18 @@ After trained these three GAN model, FID score between true images and generated
 
 #### Result
 
-UGAN CGAN2 CGAN1 True Images
-UGAN
-0 223.725 158.855 2283.79
-CGAN2 223.725
-0 468.738 2077.349
-CGAN1 158.855
-468.738 0 2489.150
-TrueImages
-2283.79 2077.349 2489.150 0
-### DeBERTa scorer
 |          | UGAN | UGAN_2 | CGAN_1 | True_Images |
 |----------|---------|---------|---------|---------|
 | UGAN     | 0       | 223.725 | 158.855  | 2283.79  |
 | UGAN_2   | 223.725 | 0       | 468.738  | 2077.349 |
 | CGAN_1   | 158.855 | 468.738 | 0        | 2489.150 |
 |True_Images| 2283.79| 2077.349| 2489.150 | 0        |
-
+- FID scores for cloth & model GANs. UGAN is the unconditional GAN, CGAN_2 is the CGAN with two dimensional noise, CGAN_1 is the CGAN with only one dimensional noise.
 ## Experiment 2 (MNIST)
 
 #### Data
 The MNIST dataset is a collection of 70,000 28x28 pixel grayscale images of handwritten digits from 0 to 9, along with their corresponding labels. It is commonly used as a benchmark for evaluating machine learning models, particularly in the field of image classification. The MNIST dataset has also been used for tasks such as object recognition, image generation, and anomaly detection.
 
+#### Setup
+MNIST provides a balanced dataset with 70000 samples and is much easier to train compared with Cloth and model data. I trained 64 CGAN models whose inputs are fixed 10-dimensional softmax label information concatenated with random noise vectors sampled from standard normal distribution whose dimensions vary from 0 to 128. And then FID score is calculated for each of the 64 GANs.
 
