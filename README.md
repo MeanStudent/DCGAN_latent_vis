@@ -41,3 +41,19 @@ The MNIST dataset is a collection of 70,000 28x28 pixel grayscale images of hand
 #### Setup
 MNIST provides a balanced dataset with 70000 samples and is much easier to train compared with Cloth and model data. I trained 64 CGAN models whose inputs are fixed 10-dimensional softmax label information concatenated with random noise vectors sampled from standard normal distribution whose dimensions vary from 0 to 128. And then FID score is calculated for each of the 64 GANs.
 
+#### Result
+![](imgaes/Result_2_0.png)
+- FID scores for 64 CGANs and 64 UGANs trained on MNIST with different latent dimension, The red line in the plot shows the average FID score between different batchs of true images.
+![Close up view](images/Result_2_1.png)
+- Dimension of latent vectors from 0 to 20 increased by 1.
+
+#### Conclusion
+
+- From above experiment we found that except for 10 label, the rest of the information in MNIST dataset can be fully represented by a span of 8 basis vectors. 
+- Compared with UGAN, FID scores of CGAN begins to stable at 3, UGAN begins to satble at around 7, which means 4 degree of freedom is enough to represent 10 dim softmax labels.
+
+## Future work
+- Need to run more experiments, and choose the optimal point in a more theoretical way.
+- FID is probably not a good method
+- Provide theoretical provement.
+
