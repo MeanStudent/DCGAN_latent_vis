@@ -31,12 +31,12 @@ CGAN1 158.855
 TrueImages
 2283.79 2077.349 2489.150 0
 ### DeBERTa scorer
-|          | UGAN | $UGAN_2$ | ROUGE-L | ROUGE-L |
+|          | UGAN | UGAN_2 | CGAN_1 | True_Images |
 |----------|---------|---------|---------|---------|
-| Before SimCLS | 0.4298  | 0.2275   | 0.3709   |
-| After SimCLS  | 0.4105  | 0.1972   | 0.3445   |
-| Before SimCLS | 0.4298  | 0.2275   | 0.3709   |
-| Before SimCLS | 0.4298  | 0.2275   | 0.3709   |
+| UGAN     | 0       | 223.725 | 158.855  | 2283.79  |
+| UGAN_2   | 223.725 | 0       | 468.738  | 2077.349 |
+| CGAN_1   | 158.855 | 468.738 | 0        | 2489.150 |
+|True_Images| 2283.79| 2077.349| 2489.150 | 0        |
 
 ## Experiment 2 (MNIST)
 
