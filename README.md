@@ -20,7 +20,9 @@ Since the limited computation power and for visualization perpuse, I only traine
 After trained these three GAN model, FID score between true images and generated images are then calculated for further analysis.
 
 #### Visualization
-![UGAN](images/UGAN.gif)
+![UGAN](images/UGAN.png)
+![CGAN_1](images/CGAN_1.png)
+![CGAN_2](images/CGAN_2.png)
 #### Result
 
 |          | UGAN | CGAN_2 | CGAN_1 | True_Images |
