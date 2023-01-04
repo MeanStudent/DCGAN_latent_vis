@@ -43,8 +43,8 @@ MNIST provides a balanced dataset with 70000 samples and is much easier to train
 
 #### Result
 ![](images/Result_2_0.png). 
-- FID scores for 64 CGANs and 64 UGANs trained on MNIST with different latent dimension, The red line in the plot shows the average FID score between different batchs of true images.
-![Close up view](images/Result_2_1.png)
+- FID scores for 64 CGANs and 64 UGANs trained on MNIST with different latent dimension, The red line in the plot shows the average FID score between different batchs of true images.  
+![Close up view](images/Result_2_1.png)  
 - Dimension of latent vectors from 0 to 20 increased by 1.
 
 #### Conclusion
